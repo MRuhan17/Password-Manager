@@ -1,1 +1,16 @@
 cryptography
+
+🛠 Install cryptography-
+pip install cryptography
+
+✅ Verify Installation-
+import cryptography
+print(cryptography.__version__)
+
+About cryptography library-
+
+1)A Python package that provides cryptographic recipes and primitives.
+2)Supports symmetric encryption (e.g., Fernet), hashing, and key generation.
+3)Built on top of well-tested, low-level libraries like OpenSSL.
+4)Widely used in Python applications for data protection and secure storage.
+5)Easy to use for beginners while still powerful enough for advanced use cases.
