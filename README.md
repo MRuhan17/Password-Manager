@@ -15,8 +15,9 @@ It allows you to **securely store and retrieve passwords** with encryption.
    git clone https://github.com/MRuhan17/Password-Manager.git
    cd Password-Manager
 
-2.Install Requirements
-pip install -r requirements.txt
+2.Install Requirements:
+  pip install -r requirements.txt
 
-3.Run the Program
-python password_manager.py
+3.Run the Program:
+ python password_manager.py
+ 
